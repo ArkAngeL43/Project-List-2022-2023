@@ -11,7 +11,7 @@
 
 For the next year and a half I will be planning my journey as to projects I will be working on, prioritizing and profiting from. These projects and lists will explain their general description, development plan and their source language.
 
-# 2022 
+# 2022 - 2023
 
 | Project name | Project Description | Project Languages | Project OS support |  Closed source | Open Source | 
 | ------------ | ------------------- | ----------------- | ------------------ | -------------- | ----------- | 
